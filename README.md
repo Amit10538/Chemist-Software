@@ -1,9 +1,9 @@
 # Chemist-Software
 ## DESKTOP APPLICATION USING JAVA NETBEANS 8.0.2
 ## Developer
-## Front End : Amaan Diwan(~JC) and Tanveer Shaikh(tancred shaikh)
-## Back End : Tanveer Shaikh(tancred shaikh) and Zeeshan Mansoori
-## Co-operate Developer : Saqib Bagwan(Sakibroxx) and Swapnil Patel(swappy)
+### Front End : Amaan Diwan(~JC) and Tanveer Shaikh(tancred shaikh)
+### Back End : Tanveer Shaikh(tancred shaikh) and Zeeshan Mansoori
+### Co-operate Developer : Saqib Bagwan(Sakibroxx) and Swapnil Patel(swappy)
 **First You need to add all jar file to netbeans libaray Chemist-Software/chemist/ADD THIS JAR TO LIBRARY BEFORE RUNNING JAVA NETBEANS.IF YOU WILL NOT ADD THIS YOU FACE ERRORS**
 
 ## SIGN IN PAGE
