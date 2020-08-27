@@ -5,7 +5,7 @@
 ### Co-operate Developer : Saqib Bagwan(Sakibroxx) and Swapnil Patel(swappy)
 ***This Software is Mini-Project of Second Year BscCS student which is develped by 5 Students of Bhavans College,Mumbai,India in the year 2019-2020***
 
-##NOTE
+## Important NOTE
 **First You need to add all jar file to netbeans libaray Chemist-Software/chemist/ADD THIS JAR TO LIBRARY BEFORE RUNNING JAVA NETBEANS.IF YOU WILL NOT ADD THIS YOU FACE ERRORS**
 
 ## SIGN IN PAGE
