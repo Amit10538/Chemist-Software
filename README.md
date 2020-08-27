@@ -3,28 +3,28 @@
 **First You need to add all jar file to netbeans libaray Chemist-Software/chemist/ADD THIS JAR TO LIBRARY BEFORE RUNNING JAVA NETBEANS.IF YOU WILL NOT ADD THIS YOU FACE ERRORS**
 
 ## SIGN IN PAGE
-![](chemist/images/signin.PNG)
+![](images/signin.PNG)
 
 ## SIGN UP PAGE
-![](chemist/images/signup.PNG)
+![](images/signup.PNG)
 
 ## HOME PAGE
-![](chemist/images/home.PNG)
+![](images/home.PNG)
 
 ## SEARCH PAGE
-![](chemist/images/search.PNG)
+![](images/search.PNG)
 
 ## ADD PAGE
-![](chemist/images/add.PNG)
+![](images/add.PNG)
 
 ## UPDATE PAGE
-![](chemist/images/update.PNG)
+![](images/update.PNG)
 
 ## DELETE PAGE
-![](chemist/images/delete.PNG)
+![](images/delete.PNG)
 
 ## BILL PAGE
-![](chemist/images/bill.PNG)
+![](images/bill.PNG)
 
 ## DATABASE FOR USERNAME AND PASSWORD
-![](chemist/images/database.JPG)
+![](images/database.JPG)
