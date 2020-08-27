@@ -1,6 +1,6 @@
 # Chemist-Software
 ## DESKTOP APPLICATION USING JAVA NETBEANS 8.0.2
-## Developer
+## Developers Name :
 ### Front End : Amaan Diwan(~JC) and Tanveer Shaikh(tancred shaikh)
 ### Back End : Tanveer Shaikh(tancred shaikh) and Zeeshan Mansoori
 ### Co-operate Developer : Saqib Bagwan(Sakibroxx) and Swapnil Patel(swappy)
